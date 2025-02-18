@@ -8,3 +8,5 @@ I'm Elger Jonker aka "stitch".
 - 🌱 I’m currently learning how to unlearn things to make up space for even less usefull stuff...
 - 📫 How to reach me: elger at internetcleanup dot foundation or elger at johnkr dot com
 - 4️⃣2️⃣ Things i (co-)founded and put ✨a lot✨ of soul, effort and time into: [Internet Cleanup Foundation](https://internetcleanup.foundation/), [Hackerspace Hack42](https://hack42.nl) in Arnhem the Netherlands, [Awesomespace / Awesome Retro](https://awesomespace.nl/) in Hilversum the Netherlands
+
+You can also find me on [Gitlab](https://gitlab.com/stitch1/).
